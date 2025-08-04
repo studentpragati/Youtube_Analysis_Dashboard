@@ -2,18 +2,18 @@
 📊 YouTube Analytics Dashboard – SQL + Power BI
 
 
-🚀 Overview
+ ## 🚀 Overview
 This project presents an in-depth analysis of YouTube creator data using SQL and a dynamic Power BI dashboard. It uncovers insights into subscriber growth, video views, earnings, content trends, and global distribution of creators.
 
-🧰 Tools Used
+## 🧰 Tools Used
 SQL – for data querying and transformation
 
-Power BI – for data visualization and dashboard creation
+##Power BI – for data visualization and dashboard creation
 
-YouTube Dataset – includes metrics like subscribers, earnings, video views, uploads, and more
+## YouTube Dataset – includes metrics like subscribers, earnings, video views, uploads, and more
 
 
-📌 Key Insights
+## 📌 Key Insights
 🌍 Countries with the most YouTubers
 
 💰 Most profitable content categories
@@ -22,16 +22,16 @@ YouTube Dataset – includes metrics like subscribers, earnings, video views, up
 
 🚀 Top 5 creators by earnings growth potential
 
-🎥 Video views vs. earnings efficiency
+## 🎥 Video views vs. earnings efficiency
 📺 Most common channel types among top-performing creators
 
-📈 Dashboard KPIs
+## 📈 Dashboard KPIs
 Total Channels Analyzed
 Total Video Views
 Avg Subscriber Growth (Last 30 Days)
 
 
-📌 Highlighted SQL Queries
+## 📌 Highlighted SQL Queries
 Top earning channels by category or country
 
 Monthly trends in subscriber/view growth
@@ -45,7 +45,7 @@ Correlation between uploads and earnings
 🧠 Each query is crafted to answer a real-world analytical question and can be reused for similar business problems.
 
 
-📚 What I Learned
+## 📚 What I Learned
 ✅ Advanced SQL techniques (CTEs, window functions, aggregations)
 
 ✅ KPI selection and visualization design
