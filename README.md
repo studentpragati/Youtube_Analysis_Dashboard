@@ -8,7 +8,7 @@ This project presents an in-depth analysis of YouTube creator data using SQL and
 ## 🧰 Tools Used
 SQL – for data querying and transformation
 
-##Power BI – for data visualization and dashboard creation
+## Power BI – for data visualization and dashboard creation
 
 ## YouTube Dataset – includes metrics like subscribers, earnings, video views, uploads, and more
 
